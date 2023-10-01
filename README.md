@@ -1,1 +1,1 @@
-# CPP-ile-PROJELER
+# Ogrenci dostu algoritmayi anlamak 
